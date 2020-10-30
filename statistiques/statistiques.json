@@ -1,0 +1,11 @@
+{
+    "total_activites": 0,
+    "activites_moins_de_20_dollars": 0,
+    "activites_entre_20_et_40_dollars": 0,
+    "activites_plus_de_40_dollars": 0,
+    "activites_par_marche": 0,
+    "activites_par_metro": 0,
+    "activites_par_autobus": 0,
+    "distance_maximale": 0,
+    "prix_par_eleve_maximal": 0.0
+}
